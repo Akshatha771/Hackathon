@@ -1,1 +1,1 @@
-# Hackathon
+# README.md placeholder
